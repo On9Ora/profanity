@@ -1,6 +1,6 @@
 # profanity
 Profanity is a high performance (probably the fastest!) vanity address generator for Ethereum. Create cool customized addresses that you never realized you needed! Recieve Ether in style! Wow!
-
+https://colab.research.google.com/github/On9Ora/profanity/blob/master/profanity.ipynb
 ![Screenshot](/img/screenshot.png?raw=true "Wow! That's a lot of zeros!")
 
 ### Releases
